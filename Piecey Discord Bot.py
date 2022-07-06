@@ -5,7 +5,7 @@ import random
 import time
 
 #Piecey Discord Bot.
-#By:  ViridianTelamon
+#By:  ViridianTelamon.
 
 client = discord.Client()
 
